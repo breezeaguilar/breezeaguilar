@@ -9,12 +9,13 @@ I'm currently a CS undergrad, Systems Engineering Intern at IPAC at Caltech and 
 - Machine Learning
 - Science Communications and Education
 
-### At this very moment I am...
+### At this very moment I can be found doing one of the following...
 - Studying hard for my BS in Computer Science
 - Training our ML models using TensorFlow for the 2026 RockSat mission
 - Building a personal project on photogrammetry
 - Reading *Gödel, Escher, Bach: an Eternal Golden Braid* by Douglas Hofstadter
-- Working towards a more comprehensive science communications approach for the Astronomy and Physics Club as Marketing and Media Co-Lead at COC
+- Working towards a more comprehensive science communications approach for the COC Astronomy and Physics Club as Marketing and Media Co-Lead
+- Preparing for my first chess tournament
 - Learning Tagalog and Spanish
 
 ### Wanna check out more of my stuff?
