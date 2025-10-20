@@ -14,6 +14,7 @@ I'm currently a CS undergrad, Systems Engineering Intern at IPAC at Caltech and 
 - Training our ML models using TensorFlow for the 2026 RockSat mission
 - Building a personal project on photogrammetry
 - Reading *Gödel, Escher, Bach: an Eternal Golden Braid* by Douglas Hofstadter
+- Working towards a more comprehensive science communications approach for the Astronomy and Physics Club as Marketing and Media Co-Lead at COC
 - Learning Tagalog and Spanish
 
 ### Wanna check out more of my stuff?
